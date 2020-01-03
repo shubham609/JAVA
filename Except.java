@@ -16,7 +16,7 @@ class Except{
 		System.out.println("Before Exception");
 		try{
 		for(int i = 0; i <= 10; i++){
-			System.out.println(i);
+	System.out.println();		System.out.println(i);
 			if(i == 7){
 				//throw new MyException();
 			}
